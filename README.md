@@ -108,10 +108,6 @@ If something's not working, try these:
 - Start with the defaults, then adjust as needed
 - Check the archive log to see what's happening
 
-## What You Need
-
-- A Unix-like system (Linux or macOS)
-- These commands: `tar`, `gzip`, `find`, `du`, `df`
 
 ## Requirements 📋
 
